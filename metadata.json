@@ -1,0 +1,6 @@
+{
+  "name": "Jetpack City Ads",
+  "description": "Um simulador arcade 3D de mochila de jato sobre uma cidade moderna com anúncios fictícios e loja de upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
